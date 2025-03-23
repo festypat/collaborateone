@@ -1,7 +1,7 @@
-﻿namespace TeamOne.Core.Services
+﻿namespace TeamOne.Core.Services;
+
+public interface IAccountServices
 {
-    public interface IAccountServices
-    {
-        string BalanceEnquiry(string accountId, string accountName);
-    }
+    string BalanceEnquiry(string accountId, string accountName);
+    string NameEnquiry(string accountId, string accountName);
 }

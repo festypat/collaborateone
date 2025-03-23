@@ -17,4 +17,9 @@ public class AccountServices : IAccountServices
     {
         return string.Empty;
     }
+
+    public string NameEnquiry(string accountId, string accountName)
+    {
+        return string.Empty;
+    }
 }
