@@ -8,25 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\festus.patrick\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\UTL_ADMIN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Base\\TeamworkOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj",
+      "projectUniqueName": "C:\\Projects\\TeamOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj",
       "projectName": "TeamOne.Core",
-      "projectPath": "C:\\Projects\\Base\\TeamworkOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj",
-      "packagesPath": "C:\\Users\\festus.patrick\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Base\\TeamworkOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\obj\\",
+      "projectPath": "C:\\Projects\\TeamOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj",
+      "packagesPath": "C:\\Users\\UTL_ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\TeamOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\festus.patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\UTL_ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -36,8 +34,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Projects\\Test\\Net\\Microservice\\packages": {},
-        "C:\\Users\\festus.patrick\\Documents\\Visual Studio 2019\\Telerik": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -55,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -76,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

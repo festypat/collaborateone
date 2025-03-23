@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TeamOne.Core/1.0.0": {
+        "runtime": {
+          "TeamOne.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeamOne.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

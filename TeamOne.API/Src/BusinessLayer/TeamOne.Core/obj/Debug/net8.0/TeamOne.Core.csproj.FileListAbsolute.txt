@@ -1,0 +1,12 @@
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\bin\Debug\net8.0\TeamOne.Core.deps.json
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\bin\Debug\net8.0\TeamOne.Core.dll
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\bin\Debug\net8.0\TeamOne.Core.pdb
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\TeamOne.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\TeamOne.Core.AssemblyInfoInputs.cache
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\TeamOne.Core.AssemblyInfo.cs
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\TeamOne.Core.csproj.CoreCompileInputs.cache
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\TeamOne.Core.sourcelink.json
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\TeamOne.Core.dll
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\refint\TeamOne.Core.dll
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\TeamOne.Core.pdb
+C:\Projects\TeamOne\TeamOne.API\Src\BusinessLayer\TeamOne.Core\obj\Debug\net8.0\ref\TeamOne.Core.dll
