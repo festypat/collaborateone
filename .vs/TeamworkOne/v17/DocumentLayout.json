@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\Base\\TeamworkOne\\TeamOne.API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{77443579-DAFA-4AF5-B929-6F10A08CB387}|Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj|c:\\projects\\base\\teamworkone\\teamone.api\\src\\businesslayer\\teamone.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77443579-DAFA-4AF5-B929-6F10A08CB387}|Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj|solutionrelative:src\\businesslayer\\teamone.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Projects\\Base\\TeamworkOne\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Projects\\Base\\TeamworkOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\Class1.cs",
-              "RelativeDocumentMoniker": "Src\\BusinessLayer\\TeamOne.Core\\Class1.cs",
-              "ToolTip": "C:\\Projects\\Base\\TeamworkOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\Class1.cs",
-              "RelativeToolTip": "Src\\BusinessLayer\\TeamOne.Core\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:02:33.811Z",
-              "EditorCaption": ""
             }
           ]
         },
