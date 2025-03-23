@@ -17,4 +17,9 @@ public class AccountServices : IAccountServices
     {
         return string.Empty;
     }
+
+    public string AccountValidation(string accountId, string accountName)
+    {
+        return string.Empty;
+    }
 }
