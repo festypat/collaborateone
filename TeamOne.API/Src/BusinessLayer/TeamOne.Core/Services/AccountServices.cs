@@ -18,6 +18,11 @@ public class AccountServices : IAccountServices
         return string.Empty;
     }
 
+    public string GetAccountDetails(string accountId, string accountName)
+    {
+        throw new NotImplementedException();
+    }
+
     public string NameEnquiry(string accountId, string accountName)
     {
         return string.Empty;
