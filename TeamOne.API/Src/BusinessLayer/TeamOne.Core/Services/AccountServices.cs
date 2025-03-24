@@ -23,6 +23,10 @@ public class AccountServices : IAccountServices
         throw new NotImplementedException();
     }
 
+    public string GetCustomerDetails(string accountId, string accountName)
+    {
+        throw new NotImplementedException();
+    }
     public string GetBvn(string accountId, string accountName)
     {
         throw new NotImplementedException();
