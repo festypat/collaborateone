@@ -37,7 +37,12 @@ public class AccountServices : IAccountServices
         return string.Empty;
     }
 
-     public string NameEnquiryByPhone(string phoneNumber)
+    public string NameEnquiryByPhone(string phoneNumber)
+    {
+        return string.Empty;
+    }
+
+    public string NameEnquiryByWallet(string walletId)
     {
         return string.Empty;
     }
