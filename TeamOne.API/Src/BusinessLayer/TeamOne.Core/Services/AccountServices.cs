@@ -42,6 +42,11 @@ public class AccountServices : IAccountServices
         return string.Empty;
     }
 
+    public string NameEnquiryByWallet(string walletId)
+    {
+        return string.Empty;
+    }
+
     public string ValidateNuban(string nuban)
     {
         return string.Empty;
