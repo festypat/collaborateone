@@ -36,4 +36,9 @@ public class AccountServices : IAccountServices
     {
         return string.Empty;
     }
+
+     public string NameEnquiryByPhone(string phoneNumber)
+    {
+        return string.Empty;
+    }
 }
