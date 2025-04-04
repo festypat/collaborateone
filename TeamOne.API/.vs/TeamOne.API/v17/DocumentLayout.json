@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\TeamOne\\TeamOne.API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{77443579-DAFA-4AF5-B929-6F10A08CB387}|Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj|c:\\projects\\teamone\\teamone.api\\src\\businesslayer\\teamone.core\\services\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77443579-DAFA-4AF5-B929-6F10A08CB387}|Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj|solutionrelative:src\\businesslayer\\teamone.core\\services\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77443579-DAFA-4AF5-B929-6F10A08CB387}|Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj|c:\\projects\\teamone\\teamone.api\\src\\businesslayer\\teamone.core\\services\\iaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77443579-DAFA-4AF5-B929-6F10A08CB387}|Src\\BusinessLayer\\TeamOne.Core\\TeamOne.Core.csproj|solutionrelative:src\\businesslayer\\teamone.core\\services\\iaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Projects\\TeamOneUpdated\\TeamOne.API\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,33 +9,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountServices.cs",
-              "DocumentMoniker": "C:\\Projects\\TeamOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\Services\\AccountServices.cs",
-              "RelativeDocumentMoniker": "Src\\BusinessLayer\\TeamOne.Core\\Services\\AccountServices.cs",
-              "ToolTip": "C:\\Projects\\TeamOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\Services\\AccountServices.cs",
-              "RelativeToolTip": "Src\\BusinessLayer\\TeamOne.Core\\Services\\AccountServices.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T00:01:57.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAccountServices.cs",
-              "DocumentMoniker": "C:\\Projects\\TeamOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\Services\\IAccountServices.cs",
-              "RelativeDocumentMoniker": "Src\\BusinessLayer\\TeamOne.Core\\Services\\IAccountServices.cs",
-              "ToolTip": "C:\\Projects\\TeamOne\\TeamOne.API\\Src\\BusinessLayer\\TeamOne.Core\\Services\\IAccountServices.cs",
-              "RelativeToolTip": "Src\\BusinessLayer\\TeamOne.Core\\Services\\IAccountServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:37:28.759Z"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"

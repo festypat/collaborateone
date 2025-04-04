@@ -37,7 +37,12 @@ public class AccountServices : IAccountServices
         return string.Empty;
     }
 
-     public string NameEnquiryByPhone(string phoneNumber)
+    public string NameEnquiryByPhone(string phoneNumber)
+    {
+        return string.Empty;
+    }
+
+    public string ValidateNuban(string nuban)
     {
         return string.Empty;
     }
