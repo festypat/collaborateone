@@ -17,4 +17,38 @@ public class AccountServices : IAccountServices
     {
         return string.Empty;
     }
+
+    public string GetAccountDetails(string accountId, string accountName)
+    {
+        throw new NotImplementedException();
+    }
+
+    public string GetCustomerDetails(string accountId, string accountName)
+    {
+        throw new NotImplementedException();
+    }
+    public string GetBvn(string accountId, string accountName)
+    {
+        throw new NotImplementedException();
+    }
+
+    public string NameEnquiry(string accountId, string accountName)
+    {
+        return string.Empty;
+    }
+
+    public string NameEnquiryByPhone(string phoneNumber)
+    {
+        return string.Empty;
+    }
+
+    public string NameEnquiryByWallet(string walletId)
+    {
+        return string.Empty;
+    }
+
+    public string ValidateNuban(string nuban)
+    {
+        return string.Empty;
+    }
 }
